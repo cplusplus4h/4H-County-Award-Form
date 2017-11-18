@@ -2,7 +2,7 @@
 
 ## Developer Setup
 1. [Install Meteor](https://www.meteor.com/install)
-1. [Install git](https://git-scm.com/)
+1. Windows only: [Install git](https://git-scm.com/)
 1. Configure git.  From the command prompt or terminal run:
     - `git config --global user.name "Your GitHub Username"`
     - `git config --global user.email you@youremail.com`
